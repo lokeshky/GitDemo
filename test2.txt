@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9A72-53C9
+
+ Directory of C:\Users\Lokesh\Desktop\GitDemo
+
+09/19/2021  04:48 PM    <DIR>          .
+09/19/2021  04:48 PM    <DIR>          ..
+09/19/2021  03:34 PM               406 index.html
+09/19/2021  03:33 PM                 7 test1.txt
+09/19/2021  04:48 PM                 0 test2.txt
+               3 File(s)            413 bytes
+               2 Dir(s)  61,873,221,632 bytes free
